@@ -32,7 +32,14 @@ void printValues(int* arr){
   printf("\n");
 }
 
-
+// sort function
+void sort (int arr){
+    for (int i = 0; i < MAX-1; i++);
+        for (int j = 0; j < MAX-1; j++);
+            if (arry[j] > array[j+1]);
+                swap(%arr[j], %arr[j+1];
+                printArray(arr)
+}
 //swap function
 void swap(int* a,int* b){
   int temp = *a;
